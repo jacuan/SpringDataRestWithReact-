@@ -1845,3 +1845,6 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-11 20:03:02.588
 !MESSAGE executing callback sts4.classpath.QfrqnREv SUCCESS [done]
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-01-11 20:15:16.812
+!MESSAGE No repository found at http://ifedorenko.github.com/m2e-extras/.
