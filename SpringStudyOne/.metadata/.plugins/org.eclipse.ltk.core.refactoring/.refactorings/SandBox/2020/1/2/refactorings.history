@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;java.sandbox&apos; to &apos;sandbox&apos;&#x0A;- Original project: &apos;SandBox&apos;&#x0A;- Original element: &apos;SandBox/src/java.sandbox&apos;&#x0A;- Renamed element: &apos;SandBox/src/sandbox&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;java.sandbox&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;java.sandbox" name="sandbox" qualified="false" references="true" stamp="1578713410935" textual="false" version="1.0"/>
+</session>
